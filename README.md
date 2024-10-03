@@ -1,24 +1,14 @@
- <a href="#" target="_blank" rel=""> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif" alt="cover" width="100%"/> </a>
+ <a href="#" target="_blank" rel=""> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif" alt="cover" width="100%"/> </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanxprofessor&show_icons=true&locale=en&layout=compact" alt="mohanxprofessor" />
  
-<table style="width: 100; border: none;">
-  <tr>
-    <td align="center" style="width: 33;">
-      <a href="https://mohanyadav.netlify.app/" target="_blank" rel="">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXV2cngwaWE2bWRmbDJxOWViejNqdjFhenMyYW4wY3ExdGN1YW4yOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WoXL1l1Sy0yElOsawv/giphy.webp" alt="Logo" height="150">
-      </a>
-    </td>
-    <td align="center" style="width: 50;">
-      <h1>Mohan Parshuram Yadav</h1>
-      <h3>A passionate frontend developer from India</h3>
-    </td>
-    <td align="center" style="width: 33;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanxprofessor&show_icons=true&locale=en&layout=compact" alt="mohanxprofessor" />
-    </td>
-  </tr>
-</table>
 
-<!-- This is a comment in a Markdown file -->
 
+ 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <span style="flex: 1; text-align: center;">
+    <a href="https://mohanyadav.netlify.app/" target="_blank" rel="">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXV2cngwaWE2bWRmbDJxOWViejNqdjFhenMyYW4wY3ExdGN1YW4yOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WoXL1l1Sy0yElOsawv/giphy.webp" alt="Logo" height="150"></a>  </span>
+   
+</div>
 
 
 
