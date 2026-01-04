@@ -97,8 +97,8 @@ A full stack web application to manage and track NGO donations efficiently.
 
 ## 📫 Contact
 
-* **GitHub:** [https://github.com/mohan-yadav](https://github.com/mohan-yadav)
-* **LinkedIn:** [https://linkedin.com/in/mohanyadav](https://linkedin.com/in/mohanyadav)
+* **GitHub:** [https://github.com/MohanXprofessor](https://github.com/MohanXprofessor)
+* **LinkedIn:** [https://linkedin.com/in/inmohanyadav](https://linkedin.com/in/inmohanyadav)
 
 ---
 
